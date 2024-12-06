@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Asigură-ți locuința atunci când pleci în vacanță!",
+        "description": "Asigură-ți locuința atunci când pleci în vacanță!...",
+        "image": "/images/offer_1.png"
+    },
+    {
+        "id": 2,
+        "title": "Asigură-ți locuința atunci când pleci în vacanță!",
+        "description": "Asigură-ți locuința atunci când pleci în vacanță!...",
+        "image": "/images/offer_2.png"
+    },
+    {
+        "id": 3,
+        "title": "Asigură-ți locuința atunci când pleci în vacanță!",
+        "description": "Asigură-ți locuința atunci când pleci în vacanță!...",
+        "image": "/images/offer_3.png"
+    }
+]

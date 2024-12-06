@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground: #171717;
+  --font-raleway: 'Raleway', sans-serif;
+  --font-raleway-italic: 'Raleway Italic', sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: var(--font-raleway);
+}
+
+.divided {
+  display: flex;
+  align-items: center;
+}
+
+.divider {
+  flex-grow: 1;
+  border-bottom: 1px solid #E7E5E4;
+  opacity: 100%;
+  margin: 5px
+}

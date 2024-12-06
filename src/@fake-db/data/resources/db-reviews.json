@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Vasile Moraru",
+        "rating": 4,
+        "content": "Am fost implicat recent intr-un accident rutier. Am fost despagubit in timp. Personal foarte amabil. Recomand cu incredere!",
+        "image": "/reviews/people_1.png"
+    },
+    {
+        "id": 2,
+        "name": "Valeria Ivanow",
+        "rating": 5,
+        "content": "consectetur adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue",
+        "image": "/reviews/people_2.png"
+    },
+    {
+        "id": 3,
+        "name": "Cody Fisher",
+        "rating": 4,
+        "content": "Am fost implicat recent intr-un accident rutier. Am fost despagubit in timp. Personal foarte amabil. Recomand cu incredere!",
+        "image": "/reviews/people_3.png"
+    },
+    {
+        "id": 4,
+        "name": "Theresa Webb",
+        "rating": 5,
+        "content": "consectetur adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue",
+        "image": "/reviews/people_4.png"
+    },
+    {
+        "id": 5,
+        "name": "Ronald Richards",
+        "rating": 4,
+        "content": "Am fost implicat recent intr-un accident rutier. Am fost despagubit in timp. Personal foarte amabil. Recomand cu incredere!",
+        "image": "/reviews/people_5.png"
+    },
+    {
+        "id": 6,
+        "name": "Annette Black",
+        "rating": 5,
+        "content": "consectetur adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue",
+        "image": "/reviews/people_6.png"
+    },
+    {
+        "id": 7,
+        "name": "Vasile Moraru",
+        "rating": 4,
+        "content": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
+        "image": "/reviews/people_7.png"
+    },
+    {
+        "id": 8,
+        "name": "Vasile Moraru",
+        "rating": 4,
+        "content": "Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi.",
+        "image": "/reviews/people_8.png"
+    },
+    {
+        "id": 9,
+        "name": "Darlene Robertson",
+        "rating": 4,
+        "content": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
+        "image": "/reviews/people_9.png"
+    },
+    {
+        "id": 10,
+        "name": "Albert Flores",
+        "rating": 4,
+        "content": "Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi.",
+        "image": "/reviews/people_10.png"
+    },
+    {
+        "id": 11,
+        "name": "Floyd Miles",
+        "rating": 4,
+        "content": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
+        "image": "/reviews/people_11.png"
+    },
+    {
+        "id": 12,
+        "name": "Ralph Edwards",
+        "rating": 4,
+        "content": "Aliqua id fugiat nostrud irure ex duis ea quis id quis ad et. Sunt qui esse pariatur duis deserunt mollit dolore cillum minim tempor enim. Elit aute irure tempor cupidatat incididunt sint deserunt ut voluptate aute id deserunt nisi.",
+        "image": "/reviews/people_12.png"
+    }
+]
